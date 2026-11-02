@@ -3,3 +3,5 @@ this is the text4 page
 this is the main page
 
 this is the master page in another
+
+this is the master page
