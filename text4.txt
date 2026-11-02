@@ -1,2 +1,2 @@
 this is the text4 page
-this is the master page
+this is the master page in another
